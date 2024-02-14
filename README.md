@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm PRiNT-ROX</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/PRiNT-ROX)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/PRiNT-ROX)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/PRiNT-ROX/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/PRiNT-ROX)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/PRiNT-ROX)  
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=print-rox&label=Profile%20views&color=0e75b6&style=flat" alt="print-rox" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=print-rox" alt="print-rox" /></a> </p>
