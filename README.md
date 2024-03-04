@@ -2,6 +2,15 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+PRiNT-ROX;" />
+</p><br>
+
+ <p align='center'><img src="https://komarev.com/ghpvc/?username=PRiNT-ROX&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="PRiNT-ROX" /><br>
+
+<p align='center'><a href="[https://github.com/PRiNT-ROX]
+
+
+
 <h2 align="center">Spent My Time > </h2><br>
 
 <p align="center"><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" width="100%"></p>
