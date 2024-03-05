@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi 👋, I'm PRiNT-ROX</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -80,4 +83,25 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=print-rox&show_icons=true&locale=en" alt="print-rox" /></p>
 
+![ROX's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRiNT-ROX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=print-rox&" alt="print-rox" /></p>
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" width="100%"/>
+</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Contribution Snake -->
+<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
+
+<br>
+<br>
+</p>
+</details>
+
+<!-- Footer -->
+
+<img src="./assets/images/Footer.jpg">
