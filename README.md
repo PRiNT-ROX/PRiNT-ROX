@@ -24,9 +24,9 @@
 
 <h2 align="center">Spent My Time > </h2><br>
 
-<p align="center"><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" width="100%"></p>
-<br>
-<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
+<p align="center"><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00001000&text_color=666" width="100%"></p>
+<pr>
+<p align="center"><h href="[https://github.com/avinal/Profile-Readme-WakaTime](https://github.com/PRiNT-ROX/PRiNT-ROX/edit/main/README.md)"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></p></h>
 
 <h2 align="center"><i>My Language & Skill <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </i></h2>
 
